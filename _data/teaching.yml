@@ -3,11 +3,11 @@
   courses:
     - coursename: <a target="_blank" href="https://canvas.tue.nl/courses/22036">Advanced Network Security</a>
       coursenumber: 2IMS30
-      teaching: "2022, 2023: Teaching Fellow"
+      teaching: "2022, 2023, 2024, 2025: Teaching Fellow"
       description: Master-level classes about advanced network secuirty with hands-on Lab-assignments taught by Dr. <a target="_blank" href="https://research.tue.nl/en/persons/savio-sciancalepore">Savio Sciancalepore</a>.
     - coursename: <a target="_blank" href="https://canvas.tue.nl/courses/15035">Seminar - Information Security Technology</a>
       coursenumber: 2IMS00
-      teaching: "2022: Teaching Fellow"
+      teaching: "2022, 2024, 2025: Teaching Fellow"
       description: Master's-level seminar managed by Dr. <a target="_blank" href="https://www.tue.nl/en/research/researchers/boris-skoric/">Boris Škorić</a> and Dr. <a target="_blank" href="https://www.tue.nl/en/research/researchers/nicola-zannone/">Nicola Zannone</a>.
 
 
